@@ -20,7 +20,7 @@ public class subTotal {
 		// TODO Auto-generated method stub
 
 		double list[] = { 5.8, 2.6, 9.1, 3.4, 7.0 };
-		SubTotal(list);
+
 	}
 
 }
